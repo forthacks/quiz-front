@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-default">
     <div class="container">
-      <router-link class="navbar-brand" to="/">Quizlet</router-link>
+      <router-link class="navbar-brand" to="/">Wakaru</router-link>
       <button
         class="navbar-toggler"
         type="button"
@@ -18,7 +18,7 @@
           <div class="row">
             <div class="col-6 collapse-brand">
               <router-link to="/">
-                Quizlet
+                Wakaru
               </router-link>
             </div>
             <div class="col-6 collapse-close">

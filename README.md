@@ -1,4 +1,4 @@
-# quizlet
+# Wakaru
 
 ## Project setup
 ```
